@@ -1603,7 +1603,7 @@ select {
 	/* Pricing */
 	.cards-2 .card {
 		width: 342px;
-		height: 400px;
+		height: 450px;
 	}
 	
 	.cards-2 .card:nth-of-type(3n+2) {
